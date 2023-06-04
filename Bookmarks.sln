@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookmarks.Web", "Bookmarks.Web\Bookmarks.Web.csproj", "{7B73F390-12C0-4B47-9C0E-640501076A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookmarks.Data", "Bookmarks.Data\Bookmarks.Data.csproj", "{D7BABA98-3004-4010-9E71-9561C892FF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B73F390-12C0-4B47-9C0E-640501076A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B73F390-12C0-4B47-9C0E-640501076A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B73F390-12C0-4B47-9C0E-640501076A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B73F390-12C0-4B47-9C0E-640501076A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BABA98-3004-4010-9E71-9561C892FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BABA98-3004-4010-9E71-9561C892FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BABA98-3004-4010-9E71-9561C892FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BABA98-3004-4010-9E71-9561C892FF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {492CED9C-EBC3-4A22-8285-9BF496A20B00}
+	EndGlobalSection
+EndGlobal
